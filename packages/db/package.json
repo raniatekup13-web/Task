@@ -1,0 +1,1 @@
+{"name":"@devtask/db","private":true,"main":"index.js","scripts":{"generate":"prisma generate","push":"prisma db push"},"dependencies":{"@prisma/client":"^6.2.1"},"devDependencies":{"prisma":"^6.2.1"}}
